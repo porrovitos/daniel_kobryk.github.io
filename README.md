@@ -1,2 +1,2 @@
-# daniel_kobryk.github.io
+# danielkobryk.github.io
 My portfolio
